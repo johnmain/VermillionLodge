@@ -16,5 +16,19 @@
       <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Masonic Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Our Purpose</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
