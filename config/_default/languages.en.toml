@@ -13,12 +13,12 @@ copyright = "John Main Designs ©"
   # description = "My awesome website"
 
 [params.author]
-   name = "John Main"
+  # name = "John Main"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
-   links = [
-     { email = "mailto:themains2@gmail.com" },
+   #links = [
+  #   { email = "mailto:themains2@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -27,7 +27,7 @@ copyright = "John Main Designs ©"
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
-      { facebook = "https://facebook.com/johnmain69" }
+  #    { facebook = "https://facebook.com/johnmain69" }
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
   #   { github = "https://github.com/username" },
@@ -62,4 +62,4 @@ copyright = "John Main Designs ©"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-   ]
+  #]
