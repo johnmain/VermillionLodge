@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Vermillion Lodge #68"
-description: "Welcome to Vermillion Lodge #68"
+description: "Dauphin MB, Vermillion Lodge #68, Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry"
 ---
 
 {{< lead >}}

@@ -8,9 +8,7 @@ copyright = "John Main Designs ©"
 
 [params]
   dateFormat = "2 January 2006"
-
-  # mainSections = ["section1", "section2"]
-  description = "Dauphin MB, Vermillion Lodge #68, Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry"
+  
 
 [params.author]
   # name = "John Main"

@@ -1,6 +1,6 @@
 ---
 title: "2024 Year in Review"
-description: "Vermillion Lodge 2024 Pictures"
+description: "Vermillion Lodge 2024 Year in Review"
 date: "2024-12-31"
 author: "John Main"
 showDate : true
