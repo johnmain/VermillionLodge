@@ -6,6 +6,9 @@ layoutBackgroundHeaderSpace: false
 showPagination: false
 heroStyle: "big"
 ---
+## Vermillion #68 History
+{{< youtube 82WwZwxHew8 >}}
+
 ## Making Good Men Better.
 
 Freemasonry is the oldest and largest fraternal organization in the world. Its members share a common goal of helping each other become better men. Its body of knowledge and system of ethics is based on the belief that each man has a responsibility to improve himself while being devoted to his family, faith, country, and fraternity.
