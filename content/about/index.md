@@ -6,8 +6,6 @@ layoutBackgroundHeaderSpace: false
 showPagination: false
 heroStyle: "big"
 ---
-## Vermillion #68 History
-{{< youtube 82WwZwxHew8 >}}
 
 ## Making Good Men Better.
 
