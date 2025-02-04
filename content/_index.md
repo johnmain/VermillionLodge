@@ -8,7 +8,7 @@ We want to thank you for visiting the Vermillion Lodge website. We hope it has p
 {{< /lead >}}
 
 <p align="center">Meetings held every 1st Tuesday except July, August and January at 7:30 PM</p>
-## Vermillion #68 History
+
 {{< youtube 82WwZwxHew8 >}}
 
 {{< figure src="default.jpg" class="m-auto mt-6 max-w-prose" >}}
