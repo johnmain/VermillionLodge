@@ -6,8 +6,13 @@
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 5
+pagination.pagerSize = 5
 summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[imaging]
+  quality = 80  # Adjust image quality (0-100)
+  anchor = "smart"  # Determines which part of the image is prioritized during cropping
+  resampleFilter = "Lanczos"  # Defines how images are resized
