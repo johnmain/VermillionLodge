@@ -1,6 +1,6 @@
 ---
 title: "Our Purpose"
-description: "Bernard Lodge #225 Listowel, Ontario Free Masonry FreeMasons"
+description: "Vermillion Lodge #68 Dauphin, Manitoba Free Masonry FreeMasons"
 showDate: false
 layoutBackgroundHeaderSpace: false
 showPagination: false

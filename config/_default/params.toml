@@ -24,7 +24,7 @@ fingerprintAlgorithm = "sha256"
   logo = "img/Ontario Masons - Leaf - Colour.png"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
-  
+
 
 [footer]
   showCopyright = true
