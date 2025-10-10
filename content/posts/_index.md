@@ -1,6 +1,6 @@
 ---
 title: "News"
-date: 2025-01-01T20:55:37+01:00
+date: 2025-10-01T20:55:37+01:00
 draft: false
 
 showDate : false
