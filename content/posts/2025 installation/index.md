@@ -1,6 +1,7 @@
 ---
 title: "2025 Installation"
-description: "Installation of the WM and Officers of Vermillion Lodge"
+description: "Celebrate the installation of the new WM Domz Gofredo Acenas at Vermillion Lodge in Prince of Wales Lodge."
+keywords: "Installation, Vermillion Lodge, WM, Officers, Grand Lodge of Manitoba, Parkland District, Minnedosa, MB"
 date: "2025-05-31"
 author: "John Main"
 showDate : true
