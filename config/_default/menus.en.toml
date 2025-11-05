@@ -20,6 +20,12 @@
   pageRef = "posts"
   weight = 20
 
+  [[main]]
+      name = "Officers"
+      pageRef = "Officers"
+      url = "/posts/2025-vermillion-officers/"
+      weight = 21
+
 [[main]]
   name = "Links"
   pageRef = "links"
