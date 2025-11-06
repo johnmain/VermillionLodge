@@ -19,6 +19,9 @@ enableImageWebp = true
 robots = "all"
 fingerprintAlgorithm = "sha256"
 
+[thumbnails]
+    enabled = false
+
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
   logo = "img/Ontario Masons - Leaf - Colour.png"
