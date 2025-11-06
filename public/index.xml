@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>John Main Designs ©</copyright>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ladies Table Lodge</title>
+      <link>http://localhost:1313/posts/ladies-table-lodge/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ladies-table-lodge/</guid>
+      <description></description>
+    </item>
     <item>
       <title>2025 Installation</title>
       <link>http://localhost:1313/posts/2025-installation/</link>
