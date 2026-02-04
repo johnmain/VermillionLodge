@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>John Main Designs ©</copyright>
-    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Festive Evening: Parade of Lights &amp; Family Fellowship</title>
+      <link>http://localhost:1313/posts/2025-christmas-party/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-christmas-party/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ladies Table Lodge</title>
       <link>http://localhost:1313/posts/ladies-table-lodge/</link>
