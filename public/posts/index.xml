@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>John Main Designs ©</copyright>
-    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDGM Official Visit</title>
+      <link>http://localhost:1313/posts/ddgm-official-visit/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ddgm-official-visit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Welcoming our new members</title>
       <link>http://localhost:1313/posts/welcoming-our-new-members/</link>
