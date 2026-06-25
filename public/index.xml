@@ -1,90 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Welcome to Vermillion Lodge #68 on Vermillion Lodge #68</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Vermillion Lodge #68 on Vermillion Lodge #68</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>John Main Designs ©</copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DDGM Official Visit</title>
-      <link>http://localhost:1313/posts/ddgm-official-visit/</link>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ddgm-official-visit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Welcoming our new members</title>
-      <link>http://localhost:1313/posts/welcoming-our-new-members/</link>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/welcoming-our-new-members/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Festive Evening: Parade of Lights &amp; Family Fellowship</title>
-      <link>http://localhost:1313/posts/2025-christmas-party/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-christmas-party/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ladies Table Lodge</title>
-      <link>http://localhost:1313/posts/ladies-table-lodge/</link>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ladies-table-lodge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2025 Installation</title>
-      <link>http://localhost:1313/posts/2025-installation/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-installation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2025 Vermillion Officers</title>
-      <link>http://localhost:1313/posts/2025-vermillion-officers/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-vermillion-officers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024 Year in Review</title>
-      <link>http://localhost:1313/posts/2024-year-in-review/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-year-in-review/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024 Christmas Party</title>
-      <link>http://localhost:1313/posts/2024-christmas-party/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-christmas-party/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Masonic Links</title>
-      <link>http://localhost:1313/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Our Purpose</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Welcome to Vermillion Lodge #68 on Vermillion Lodge #68</title>
+		<link>https://vermillionlodge68.org/</link>
+		<description>Recent content in Welcome to Vermillion Lodge #68 on Vermillion Lodge #68</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>John Main Designs ©</copyright>
+		
+		
+			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://vermillionlodge68.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026 Vermillion Officers</title>
+				<link>https://vermillionlodge68.org/posts/2026-vermillion-officers/</link>
+				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/2026-vermillion-officers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Installation of WB Jake Rana</title>
+				<link>https://vermillionlodge68.org/posts/installation-of-wb-jake-rana/</link>
+				<pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/installation-of-wb-jake-rana/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>DDGM Official Visit</title>
+				<link>https://vermillionlodge68.org/posts/ddgm-official-visit/</link>
+				<pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/ddgm-official-visit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Welcoming our new members</title>
+				<link>https://vermillionlodge68.org/posts/welcoming-our-new-members/</link>
+				<pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/welcoming-our-new-members/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A Festive Evening: Parade of Lights &amp; Family Fellowship</title>
+				<link>https://vermillionlodge68.org/posts/2025-christmas-party/</link>
+				<pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/2025-christmas-party/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ladies Table Lodge</title>
+				<link>https://vermillionlodge68.org/posts/ladies-table-lodge/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/ladies-table-lodge/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2025 Installation</title>
+				<link>https://vermillionlodge68.org/posts/2025-installation/</link>
+				<pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/2025-installation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2025 Vermillion Officers</title>
+				<link>https://vermillionlodge68.org/posts/2025-vermillion-officers/</link>
+				<pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/2025-vermillion-officers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2024 Year in Review</title>
+				<link>https://vermillionlodge68.org/posts/2024-year-in-review/</link>
+				<pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/2024-year-in-review/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2024 Christmas Party</title>
+				<link>https://vermillionlodge68.org/posts/2024-christmas-party/</link>
+				<pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/posts/2024-christmas-party/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Contact Us</title>
+				<link>https://vermillionlodge68.org/contact/</link>
+				<pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/contact/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Masonic Links</title>
+				<link>https://vermillionlodge68.org/links/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/links/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Our Purpose</title>
+				<link>https://vermillionlodge68.org/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://vermillionlodge68.org/about/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
