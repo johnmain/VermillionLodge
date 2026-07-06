@@ -10,7 +10,7 @@ showHero : false
 | Position                     | Brother                          |
 |------------------------------|---------------------------------|
 | Worshipful Master            | W Bro. Jake Rana                |
-| Immediate Past Master        | W Bro. Domz Acenas              |
+| Immediate Past Master        | VW Bro. Domz Acenas              |
 | Senior Warden                | Bro. JR Moy                     |
 | Junior Warden                | RW Bro. John Main               |
 | Secretary-Treasurer          | RW Bro. David Simmonds          |
